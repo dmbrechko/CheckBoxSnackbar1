@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CheckBoxSnackbar1</string>
+    <string name="enter_input">Enter input</string>
+    <string name="save_data">Save data</string>
+    <string name="enter_data">Enter data</string>
+    <string name="save_first">Save data first, nothing to delete now</string>
+    <string name="confirm_deleting">Confirm deleting</string>
+    <string name="delete">Delete</string>
+    <string name="data_deleted">Data deleted</string>
+    <string name="delete_data">Delete data</string>
+</resources>
